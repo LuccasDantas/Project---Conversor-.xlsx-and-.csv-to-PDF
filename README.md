@@ -21,8 +21,13 @@ Fiquem à vontade para analisar e se divertir com este código! 😊
 
 ## Como Usar
 1. Coloque os arquivos .xlsx ou .csv na mesma pasta do script.
-2. Execute o script com o Node.js.
+2. Execute o script com o Node.js:
+   ```bash
+   node seu_script.js
 3. Os arquivos PDF e HTML serão gerados na mesma pasta.
+
+##### Observação:
+Dentro da repositório está disponibilizado um arquivo .xlsx (Financial Sample) para teste do Projeto!
 
 ## Contribuições
 Sinta-se à vontade para contribuir com melhorias!
