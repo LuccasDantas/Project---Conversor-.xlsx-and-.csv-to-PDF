@@ -23,7 +23,7 @@ Fiquem à vontade para analisar e se divertir com este código! 😊
 1. Coloque os arquivos .xlsx ou .csv na mesma pasta do script.
 2. Execute o script com o Node.js:
    ```bash
-   node seu_script.js
+   node app.js
 3. Os arquivos PDF e HTML serão gerados na mesma pasta.
 
 ##### Observação:
